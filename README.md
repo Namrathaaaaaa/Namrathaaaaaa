@@ -1,104 +1,121 @@
 ## Hi there 👋
 
-<!-- Added Header Wave animation -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
-
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rajdeepchakraborty-rc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!-- Added Profile Banner -->
-<img align="center" src="Assets/header_M.png" alt="Profile Image Header" /><br>
+<img align="center" src="/header_F.png" alt="Profile Image Header" /><br>
 
-
-**Namrathaaaaaa/Namrathaaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on backend Development
+- 🌱 I’m currently learning fullstack with goLang
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with frontend/backend
+- 😄 Pronouns: She/Her
 
+
+<hr>
+
+# 🌐 Socials: 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Namratha#namratha_3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/namratharaju_343) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namratha343/) 
+<br><br>
 <hr>
 
 <h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology</h1>
 
-<table align="center" class="table table-dark">
-  <tr bg-dark>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
-      <br>Next JS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
-      <br>React JS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
-      <br>Express JS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
-      <br>Node JS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="55" height="55" />
-      <br>Prisma
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="55" height="55" />
-      <br>PostgreSQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
-      <br>Redux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="55" height="55" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="55" height="55" alt="md" />
-      <br>Angular
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="55" height="55" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kubernetes" alt="icon" width="55" height="55" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
-      <br>Figma
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
-      <br>Vite
-    </td>
-  </tr>
-</table>
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="12" />
+  
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+</div>
+
+###
+
 
 <hr>
 
@@ -131,6 +148,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p align="center">
-  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
-</p>
+
