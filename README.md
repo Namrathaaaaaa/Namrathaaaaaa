@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning fullstack with goLang
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with frontend/backend
-- 😄 Pronouns: She/Her
+- 😄 Pronouns:She/Her
 
 
 <hr>
