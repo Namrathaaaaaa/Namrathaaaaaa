@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 
 <p align="center">
    <a>
-     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Namrathaaaaaa&theme=radical" alt="namratha" /></p>
+     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Namrathaaaaaa&theme=radical" /></p>
    </a>
 </p>
 
