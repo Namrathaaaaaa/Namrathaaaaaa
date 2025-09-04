@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on backend Development
+- 🔭 I’m currently working on DevOps projects
 - 🌱 I’m currently learning fullstack with goLang
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with frontend/backend
