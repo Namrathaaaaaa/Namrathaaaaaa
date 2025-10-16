@@ -11,10 +11,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on DevOps projects
-- 🌱 I’m currently learning Kubernetes, CI/CD, and Cloud Deployments
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with advanced Kubernetes and Infrastructure as Code (IaC)
+- 🔭 I’m currently working on DevOps projects.
+- 🌱 I’m currently learning Kubernetes, CI/CD, and Cloud Deployments.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with advanced Kubernetes and Infrastructure as Code (IaC).
 - 😄 Pronouns: She/Her
 
 
